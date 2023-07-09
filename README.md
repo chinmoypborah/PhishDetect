@@ -2,6 +2,8 @@
 
 Phish Detect v1 is a Python script that utilizes a trained machine-learning model to classify URLs as either phishing or legitimate. It is designed to help detect potential phishing websites by analyzing the provided URL.
 
+<b>Accuracy:</b> 0.9635933375807773
+
 ## Description
 This script leverages a logistic regression model trained on a dataset of phishing and legitimate URLs. It uses the CountVectorizer for feature extraction and the trained model for classification. By preprocessing the user input URL and transforming it into a feature vector, the script predicts whether the URL is a phishing website or a legitimate website.
 
