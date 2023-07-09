@@ -22,8 +22,10 @@ This script leverages a logistic regression model trained on a dataset of phishi
 7. Follow the on-screen prompts to enter the URL you want to classify as phishing or legitimate.
 8. The script will provide the classification result based on the trained model.
 
-Note: The trained model in this repository was trained on a specific dataset. It is recommended to periodically update the dataset and retrain the model for better performance and accuracy.
+<b>Note:</b> The trained model in this repository was trained on a specific dataset. It is recommended to periodically update the dataset and retrain the model for better performance and accuracy.
 
 Thanks to Tarun Tiwari for the Dataset. (https://www.kaggle.com/datasets/taruntiwarihp/phishing-site-urls)
+
+<b>Note:</b> This data-set is 3 years old, so it might not detect some new Phishing URLs, I will update the data-set constantly with new URLs so it detects new possible URL's as well.
 
 Feel free to customize the description and usage instructions to provide additional details or clarify any specific steps or requirements for your repository.
