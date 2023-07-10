@@ -19,7 +19,7 @@ This script leverages a logistic regression model trained on a dataset of phishi
 5. Open a command prompt or terminal and navigate to the project directory.
 6. Run the script using the following command:
 
-```python phish_detect.py```
+```python main.py```
 
 7. Follow the on-screen prompts to enter the URL you want to classify as phishing or legitimate.
 8. The script will provide the classification result based on the trained model.
